@@ -1,0 +1,11 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "",
+    "AzureServiceBus": "",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "MongoConnection": "",
+    "MongoDatabase": "DBAcoes",
+    "MongoCollection": "HistoricoAcoes"
+  }
+}
